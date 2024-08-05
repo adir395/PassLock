@@ -3,20 +3,6 @@
 <h2 align="center">A secured python password manager that encrypts passwords using  Advanced Encryption Standard (AES)</h2>
 
 
-______
-
-<p align="center"><u>
- <img align="center" src="https://badgen.net/badge/license/MIT/white"/>&nbsp;
- <img align="center" src="https://badgen.net/github/stars/akshay-vs/passlock?color=white"/>&nbsp;
- <img align="center" src="https://badgen.net/github/watchers/akshay-vs/passlock?color=white"/>&nbsp;
- <img align="center" src="https://badgen.net/github/forks/akshay-vs/passlock?color=white"/>&nbsp;
- <img align="center" src="https://badgen.net/github/checks/node-formidable/node-formidable/master/windows?color=white"/>&nbsp;
- <img align="center" src="https://badgen.net/badge/python/3.9/white"/>
- 
-</u></p>
-
-_____________
-
 <pr>
 PassLock is a password manager and generator that encrypts passwords using AES and saves them securely on your local machine. The password is encrypted and decrypted using a user-defined key and will get updated in each use. Extending the length of the private key will steadily improve the overall security. PassLock also generates a 40-bit password consisting of lowercase, and uppercase letters, numbers, and symbols Passlock's 220-bit AES encryption and infinitely long password generator make your passwords nearly impossible to break. Its Console-Based User Interface will help to enhance your experience.
 </pr>
@@ -51,25 +37,6 @@ PassLock is a password manager and generator that encrypts passwords using AES a
 | termcolor    | 1.1+             |
 | pyperclip    | 1.8+             |
 
-<h2 align='left'><u><b>Development</b></u></h2>
-
-&bull; Current version  <a href ="https://github.com/Akshay-Vs/PassLock/archive/refs/tags/v2.0.zip">2.0.1</a><br>
-&bull; Last stable release <a href="https://github.com/Akshay-Vs/PassLock/archive/refs/tags/v2.0.zip">2.0.1</a> 
-<details>
- <summary>&bull;<b> Major Update History:</b></summary>
-<pre>
-
-
-| version | release date |features                                                                                      |
-|---------|--------------|-----------------------------------------|
-| 0.4     | 18-8-2021    |16-bit password encryption and decryption
-| 1.0     | 21-8-2021    |Enhanced security<br>Bug Fixes<br>Added 40-bit password genetator<br>optimized performance
-| 1.1     | 26-8-2021    |Improved encryption<br>Unlimited length random password generator<br>User defined Key (upto 220 bit)
-| 1.6     | 06-9-2021    |Added new command to change path<br>Improved Startup speed<br>Fixed Random Password generation bug<br>Improved security<br>Now you can upgrade passowrds upto 62 bit encryption<br>Added --list command to list all saved password
-| 1.7     | 20-9-2021    |Security Update:<br>  &nbsp;&nbsp; - Added separate key to encrypt password to improve security<br>  &nbsp;&nbsp; - Fixed Some Security faults<br>  &nbsp;&nbsp; - Added a Process Manager that constantly monitor all processes
-| 2.0     | 04-11-2021  |Added new commands<br>Added notifications enabled<br>Added a cool looking Terminal Graphical interface<br>Added parallel encryption<br>Added multiple page tui<br>Optimized encryption<br>Changed data saving method<br>Optimized startup time to milliseconds<br>Faster Encryption<br>Improved BitRate<br>Multiple keys supports<br>Bug fixes<br>Improved process manager<br>
-</pre>
-</details>
 
 <h2 align="left"><b>Connect with me</b></h2>
 <p align="left">
