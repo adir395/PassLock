@@ -10,14 +10,6 @@ PassLock is a password manager and generator that encrypts passwords using AES a
 <a href="https://github.com/Akshay-Vs/PassLock/archive/refs/heads/main.zip"><img align="center" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/></a>
 
 
-
-<h2 align="left"><b>Connect with me</b></h2>
-<p align="left">
-<a href="https://twitter.com/Akshay_vs__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Akshayv69128812" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/akshay-vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akshay-vs" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay._.vs__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay._.vs__" height="30" width="40" /></a>
-</p>
-
  <h2 align='left'><u><b>Installation</b></u></h2>
  <p>Install using git bash 
  <code>$git clone https://github.com/Akshay-Vs/AES-encrypted-password-manager.git</code><br>
