@@ -10,22 +10,6 @@ PassLock is a password manager and generator that encrypts passwords using AES a
 <a href="https://github.com/Akshay-Vs/PassLock/archive/refs/heads/main.zip"><img align="center" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/></a>
 
 
- <h2 align='left'><u><b>Installation</b></u></h2>
- <p>Install using git bash 
- <code>$git clone https://github.com/Akshay-Vs/AES-encrypted-password-manager.git</code><br>
- Or click Download button 👇 <br>
- <a href="https://github.com/Akshay-Vs/PassLock/archive/refs/heads/main.zip" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
- 
-Download installer 👇<br>
- <a href="https://sourceforge.net/projects/passlock-windows/files/latest/download" target="blank"> <img src="https://github.com/Akshay-Vs/resources/blob/main/src/download%20(1).png" alt="blank" height="78" width="200"></a>
- 
-<h2 align='left'><u><b>How to use?</b></u></h2>
-&#9724;Download and Extract the Zip file<br>
-&#9724;Run PassLock to open Password manager<br>
-&#9724;Enter path to a directory to save passwords<br>
-&#9724;Create a master password, Username and key to open passlock home screeen
-
-
 <h2 align='left'><u><b>Commands</b></u></h2>
 <code>new   </code>Create a new password<br>
 <code>show  </code>Decrypt and show password<br>
