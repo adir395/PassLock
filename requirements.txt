@@ -1,0 +1,7 @@
+#pip compile requerments.txt
+ 
+Crypto==1.4
+termcolor==1.1
+pyperclip==1.8
+prettytable==3.2.0
+pycryptodome
