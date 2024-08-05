@@ -1,5 +1,3 @@
-<a href="https://github.com/Akshay-Vs/PassLock/archive/refs/heads/main.zip"><img align="center" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/f.4.png" width="100%"/></a>
- </h1>
 <h2 align="center">A secured python password manager that encrypts passwords using  Advanced Encryption Standard (AES)</h2>
 
 
