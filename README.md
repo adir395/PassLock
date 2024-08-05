@@ -108,13 +108,6 @@ Download installer 👇<br>
 <code>list</code>To list all password ids<br>
 <code>exit</code>close all files and exit console application<br>
 
-<h2>Developers</h2>
-<h3><a href="https://github.com/Akshay-Vs" target="blank"><img src="https://avatars.githubusercontent.com/u/85959609?v=4" height="3.5%" width="3.5%"></a>Akshay-Vs</h3>
-<br>
-
-<h2 align='left'><u><b>License and Copyright</b></u></h2>
-License: MIT Lisence<br>
-&#169; 2021 Akshay-Vs
 
  
 
