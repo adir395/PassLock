@@ -8,32 +8,7 @@ PassLock is a password manager and generator that encrypts passwords using AES a
 <br>
 
 <a href="https://github.com/Akshay-Vs/PassLock/archive/refs/heads/main.zip"><img align="center" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/></a>
-<br>
-<h2 align="left"><u><b>Features</b></u></h2>
-  &bull;  AES Encryption<br>
-  &bull; Custom key<br>
-  &bull; Random encryption type <br>
-  &bull; random password generator<br>
-  &bull; Clipboard Copy<br>
-  &bull; Custom path<br>
-  &bull; Terminal User Interface<br>
-  &bull; Process Monitor
-  
- <h2 align='left'><u><b>Languages Used</b></u></h2>
- &bull; python3<br>
- &bull; C++ 17<br>
- 
- <h2 align='left'><u><b>Requerments</b></u></h2>
- &bull; PassLock required python 3.7 or above<br>
- &bull; PassLock requires 3 third party modules, and it will automatically install while running<br>
 
-   
-| requirements | required version |
-| ---------    | ---------------- |
-| Python3      | 3.7+             |
-| Crypto       | 1.4+             |
-| termcolor    | 1.1+             |
-| pyperclip    | 1.8+             |
 
 
 <h2 align="left"><b>Connect with me</b></h2>
